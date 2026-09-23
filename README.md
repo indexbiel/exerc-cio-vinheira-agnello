@@ -1,2 +1,8 @@
-# exerc-cio-vinheira-agnello
-Projeto desenvolvido em JavaScript para gerenciamento básico de vinhos, permitindo cadastrar informações como nome, tipo, safra e quantidade em estoque. Os dados são solicitados pelo usuário e exibidos de forma organizada no console.
+Sistema de Gerenciamento de Vinhos
+
+Descrição:
+
+Sistema básico para cadastro e análise de vinhos artesanais da Vinharia Agnello, desenvolvido com HTML, CSS e JavaScript.
+
+Integrantes: Vinicius Saraiva Costa RM: 575735
+Gabriel Henrique de Paula Jesus RM: 576803
